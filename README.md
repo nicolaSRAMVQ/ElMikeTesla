@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming for a better World
 - 🌱 I’m currently learning or trying to learn Plutus
 - 💞️ I’m looking to collaborate on Cardano and Blockchain ecosystem. 
-- 📫 You can reach me at Nicolasalvagni@gmail.com
+- 📫 You can reach me at nicola@brandvan.io
 
 <!---
 ElMikeTesla/ElMikeTesla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
